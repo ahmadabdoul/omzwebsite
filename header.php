@@ -326,7 +326,7 @@
 								<li><a href="blog_single_post_page.html" title="">Blog Single</a></li>
 							</ul>
 						</li> -->
-						<li><a href="faqs.php" title="">faqs</a></li>
+						<li><a href="/shop" title="">store</a></li>
 						<li><a href="contact.php" title="">contact us</a></li>
 						<li><a href="/account" title="">Account</a></li>
 		 			</ul>
@@ -385,7 +385,7 @@
 								<li><a href="blog_single_post_page.html" title="">Blog Single</a></li>
 							</ul>
 						</li> -->
-						<li><a href="faqs.php" title="">faqs</a></li>
+						<li><a href="/shop" title="">store</a></li>
 						<li><a href="contact.php" title="">Contact us</a></li>
 						<li><a href="/account" title="">Account</a></li>
 					</ul>
@@ -437,7 +437,7 @@
 								<li><a href="blog_single_post_page.html" title="">Blog Single</a></li>
 							</ul>
 						</li> -->
-						<li><a href="faqs.php" title="">faqs</a></li>
+						<li><a href="/shop" title="">store</a></li>
 						<li><a href="contact.php" title="">Contact us</a></li>
 						<li><a href="/account" title="">Account</a></li>
 		</ul>

@@ -1,3 +1,9 @@
+<?php  
+include 'header.php';	
+
+$error = 'This Page Is not available at the moment';
+die($error);
+?>
 <!DOCTYPE html>
 <html lang="en">
 
