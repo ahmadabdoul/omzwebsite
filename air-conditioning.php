@@ -2,6 +2,7 @@
 <?php 
 include 'header.php';
 ?>
+<title>Omzfield | Air Conditioning</title>
 
 	<section class="pager-sec">
 		<div class="container">

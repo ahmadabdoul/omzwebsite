@@ -1,7 +1,7 @@
 	<?php
 		include 'header.php';
 	?>
-
+	<title>Services</title>
 		<section class="pager-sec">
 			<div class="container">
 				<ul class="pager-info">
