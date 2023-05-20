@@ -4,7 +4,7 @@ include 'header.php';
 require 'assets/connection.php';
 
 ?>
-<title>Omzfield - Home</title>
+<title>Omzfield | About Us</title>
 
 	<section class="pager-sec">
 		<div class="container">
@@ -23,7 +23,7 @@ require 'assets/connection.php';
 					<div class="row">
 						<div class="col-lg-6 col-md-6 abt">
 							<div class="abt-img">
-								<img src="images/resources/abt-img.jpg" alt="">
+								<img src="images/van.jpg" alt="">
 							</div><!--abt-img end-->
 						</div>
 						<div class="col-lg-6 col-md-6 inf">
